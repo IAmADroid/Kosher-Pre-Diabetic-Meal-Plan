@@ -8,3 +8,11 @@ I decided I needed to make this repository because I didn't make a proper lunch 
 I didn't choose to make this kosher prediabetic meal plan, I would really like to enjoy normal food, but I'm at risk of diabetes from my family history, and my family is jewish, so I'd rather not become the pariah of the family just because I couldn't be bothered to avoid bacon and shellfish. If you were expecting one of those Hippie Homeopathic essential oils stuff you can leave now; You need to be able to prove stuff with peer-reviewed experiment to convince me.
 
 # Basic Schedule (Have to start somewhere)
+
+Monday: 
+Tuesday: Dal Makhani
+Wednesday: Eggs with Cheese and Avocado
+Thursday: Orange Chicken
+Friday: Sag Paneer
+Saturday: Soyrizo (chorizo made of soy) con huevo
+Sunday: Cooked Chicken
