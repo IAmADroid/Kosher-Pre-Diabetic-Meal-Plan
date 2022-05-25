@@ -9,10 +9,15 @@ I didn't choose to make this kosher prediabetic meal plan, I would really like t
 
 # Basic Schedule (Have to start somewhere)
 
-Monday: 
-Tuesday: Dal Makhani
-Wednesday: Eggs with Cheese and Avocado
-Thursday: Orange Chicken
-Friday: Sag Paneer
-Saturday: Soyrizo (chorizo made of soy) con huevo
-Sunday: Cooked Chicken
+* Monday: 
+* Tuesday: Dal Makhani
+* Wednesday: Eggs with Cheese and Avocado
+* Thursday: Orange Chicken
+* Friday: Sag Paneer
+* Saturday: Soyrizo (chorizo made of soy) con huevo
+* Sunday: Cooked Chicken
+
+
+# extra links:
+* [Mushroom Strudel](https://www.delicious.com.au/recipes/mushroom-strudel-del-sunday/umeijCwk)
+* [An omlette with so many add ons that it's basically not an omlette anymore](https://www.delicious.com.au/recipes/open-potato-tuna-feta-omelette-tomato-salad/KHyCEn2T)
