@@ -21,3 +21,5 @@ I didn't choose to make this kosher prediabetic meal plan, I would really like t
 # extra links:
 * [Mushroom Strudel](https://www.delicious.com.au/recipes/mushroom-strudel-del-sunday/umeijCwk)
 * [An omlette with so many add ons that it's basically not an omlette anymore](https://www.delicious.com.au/recipes/open-potato-tuna-feta-omelette-tomato-salad/KHyCEn2T)
+* [Javanese (malasian) quisine](https://en.wikipedia.org/wiki/Javanese_cuisine)
+* [Japanese quisine](https://en.wikipedia.org/wiki/Japanese_cuisine)
